@@ -1,7 +1,0 @@
-/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_pwm.h:825:20:PWM_StartTimer	16	static
-/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_pwm.h:1026:20:PWM_SetPwmLdok	16	static
-/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_pwm.h:1093:20:PWM_SetupFaultDisableMap	24	static
-../component/pwm_for_led/pwm.c:46:13:PWM_DRV_Init3PhPwm	88	static
-../component/pwm_for_led/pwm.c:99:5:pwm_start	32	static
-../component/pwm_for_led/pwm.c:187:6:pwm_test	16	static
-../component/pwm_for_led/pwm.c:198:6:pwm_update	24	static

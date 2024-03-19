@@ -1,3 +1,0 @@
-/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_clock.h:546:20:void CLOCK_EnableClock(clock_ip_name_t)	32	static
-../component/r01lib/mcu.cpp:25:6:void init_mcu()	8	static
-../component/r01lib/mcu.cpp:88:6:void wait(float)	24	static

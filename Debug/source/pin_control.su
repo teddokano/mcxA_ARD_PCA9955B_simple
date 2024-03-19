@@ -1,6 +1,0 @@
-../source/pin_control.cpp:26:6:void init_pin_control()	16	static
-../source/pin_control.cpp:38:6:void led_control_callback()	16	static
-../source/pin_control.cpp:51:6:void led_set_color(float, float)	16	static
-../source/pin_control.cpp:63:6:void led_all(bool)	16	static
-../source/pin_control.cpp:70:6:void led_pin_control(int)	16	static
-../source/pin_control.cpp:81:6:void ibi_trigger_output()	8	static
