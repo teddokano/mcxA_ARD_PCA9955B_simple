@@ -1,0 +1,3 @@
+../component/r01lib/spi.cpp:42:1:SPI::SPI(uint32_t, uint8_t)	56	static
+../component/r01lib/spi.cpp:59:1:SPI::~SPI()	16	static
+../component/r01lib/spi.cpp:61:10:virtual status_t SPI::write(uint8_t*, uint8_t*, int)	40	static

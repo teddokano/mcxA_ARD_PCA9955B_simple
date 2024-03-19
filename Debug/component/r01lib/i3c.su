@@ -1,0 +1,12 @@
+../component/r01lib/i3c.cpp:44:1:I3C::I3C(uint32_t, uint32_t, uint32_t)	48	static
+../component/r01lib/i3c.cpp:63:1:I3C::~I3C()	16	static
+../component/r01lib/i3c.cpp:65:10:virtual status_t I3C::write(uint8_t, const uint8_t*, int, bool)	40	static
+../component/r01lib/i3c.cpp:70:10:virtual status_t I3C::read(uint8_t, uint8_t*, int, bool)	40	static
+../component/r01lib/i3c.cpp:75:10:status_t I3C::xfer(i3c_direction_t, i3c_bus_type_t, uint8_t, uint8_t*, int, bool)	48	static
+../component/r01lib/i3c.cpp:89:6:void I3C::set_IBI_callback(i3c_func_ptr)	16	static
+../component/r01lib/i3c.cpp:95:10:status_t I3C::ccc_broadcast(uint8_t, const uint8_t*, uint8_t)	56	static
+../component/r01lib/i3c.cpp:105:10:virtual status_t I3C::ccc_set(uint8_t, uint8_t, uint8_t)	40	static
+../component/r01lib/i3c.cpp:115:10:virtual status_t I3C::ccc_get(uint8_t, uint8_t, uint8_t*, uint8_t)	48	static
+../component/r01lib/i3c.cpp:125:9:uint8_t I3C::check_IBI()	16	static
+../component/r01lib/i3c.cpp:135:6:static void I3C::master_ibi_callback(I3C_Type*, i3c_master_handle_t*, i3c_ibi_type_t, i3c_ibi_state_t)	24	static
+../component/r01lib/i3c.cpp:163:6:static void I3C::master_callback(I3C_Type*, i3c_master_handle_t*, status_t, void*)	24	static

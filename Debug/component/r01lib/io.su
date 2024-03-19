@@ -1,0 +1,15 @@
+/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_gpio.h:329:20:void GPIO_PinWrite(GPIO_Type*, uint32_t, uint8_t)	24	static
+/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_gpio.h:411:24:uint32_t GPIO_PinRead(GPIO_Type*, uint32_t)	16	static
+../component/r01lib/io.cpp:49:1:DigitalInOut::DigitalInOut(uint8_t, bool, bool)	24	static
+../component/r01lib/io.cpp:64:1:DigitalInOut::~DigitalInOut()	16	static
+../component/r01lib/io.cpp:66:6:void DigitalInOut::value(bool)	16	static
+../component/r01lib/io.cpp:77:6:bool DigitalInOut::value()	16	static
+../component/r01lib/io.cpp:88:6:void DigitalInOut::output()	16	static
+../component/r01lib/io.cpp:93:6:void DigitalInOut::input()	16	static
+../component/r01lib/io.cpp:98:15:DigitalInOut& DigitalInOut::operator=(bool)	16	static
+../component/r01lib/io.cpp:104:15:DigitalInOut& DigitalInOut::operator=(DigitalInOut&)	16	static
+../component/r01lib/io.cpp:109:1:DigitalInOut::operator bool()	16	static
+../component/r01lib/io.cpp:114:1:DigitalOut::DigitalOut(uint8_t, bool)	16	static
+../component/r01lib/io.cpp:119:1:DigitalOut::~DigitalOut()	16	static
+../component/r01lib/io.cpp:121:1:DigitalIn::DigitalIn(uint8_t)	16	static
+../component/r01lib/io.cpp:126:1:DigitalIn::~DigitalIn()	16	static

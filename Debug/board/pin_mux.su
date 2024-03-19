@@ -1,0 +1,6 @@
+/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_clock.h:546:20:CLOCK_EnableClock	32	static
+/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_reset.h:196:20:RESET_ReleasePeripheralReset	16	static
+/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_port.h:355:20:PORT_SetPinConfig	32	static
+/Users/tedd/dev/mcuxpresso/i3c/mcxA_ARD_PCA9955B_simple/drivers/fsl_port.h:458:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:58:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:115:6:BOARD_InitPins	24	static

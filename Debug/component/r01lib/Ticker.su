@@ -1,0 +1,3 @@
+../component/r01lib/Ticker.cpp:19:1:Ticker::Ticker()	16	static
+../component/r01lib/Ticker.cpp:24:1:Ticker::~Ticker()	16	static
+../component/r01lib/Ticker.cpp:26:6:void Ticker::attach(utick_callback_t, float)	32	static
